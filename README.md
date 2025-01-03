@@ -1,7 +1,7 @@
 ## About me 🐱‍👤
 
 😎 I'm student and I study System engineer on Tec of Culiacan
-💻 I'm develoment junior and I've worked to Angular and Node js (Express)
+💻 I'm Junior developer and I've worked to Angular and Node js (Express)
 
 ### Languages manage
 
