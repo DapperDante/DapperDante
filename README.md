@@ -1,5 +1,21 @@
-## Hi there 👋
+## About me 🐱‍👤
 
+😎 I'm student and I study System engineer on Tec of Culiacan
+💻 I'm develoment junior and I've worked to Angular and Node js (Express)
+
+### Languages manage
+
+| Rank | Languages |
+|----|-----|
+| 1 | Javascript |
+| 2 | Typescript |
+| 3 | Java | 
+
+### Frameworks manage
+
+| Rank | Framework | 
+| ---- | --------- |
+| 1 | Angular |
 <!--
 **DapperDante/DapperDante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
