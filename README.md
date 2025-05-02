@@ -1,32 +1,26 @@
-## About me 🐱‍👤
+## About me
 
-😎 I'm student and I study System engineer on Tec of Culiacan
-💻 I'm Junior developer and I've worked to Angular and Node js (Express)
+😎 Hi!, I'm Dante and be student in System engineer of Tec of Culiacan
+
+💻 I've worked with Angular, Express and MySql, Nowadays I work with them and I've learned new feactures about them
 
 ### Languages manage
 
-| Rank | Languages |
-|----|-----|
-| 1 | Javascript |
-| 2 | Typescript |
-| 3 | Java | 
+| Rank | Language   |                                     |
+| ---- | ---------- | ----------------------------------- |
+| 1    | Javascript | ![logo](assets/javascript-icon.svg) |
+| 2    | Typescript | ![logo](assets/typescript-icon.svg) |
+| 3    | Java       | ![logo](assets/java-icon.svg)       |
 
 ### Frameworks manage
 
-| Rank | Framework | 
-| ---- | --------- |
-| 1 | Angular |
-<!--
-**DapperDante/DapperDante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Rank | Framework |                                  |
+| ---- | --------- | -------------------------------- |
+| 1    | Angular   | ![logo](assets/angular-icon.svg) |
+| 2    | Express   | ![logo](assets/express-icon.svg) |
 
-Here are some ideas to get you started:
+### Databases manage
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Rank | Database |                                |
+| ---- | -------- | ------------------------------ |
+| 1    | MySql    | ![logo](assets/mysql-icon.svg) |
