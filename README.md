@@ -24,3 +24,15 @@
 | Rank | Database |                                |
 | ---- | -------- | ------------------------------ |
 | 1    | MySql    | ![logo](assets/mysql-icon.svg) |
+
+### Projects
+
+| Project        | Description                                 | Tecnologies             | Repository                                                  |
+| -------------- | ------------------------------------------- | ----------------------- | ----------------------------------------------------------- |
+| Serflix        | A movie and series web application.         | Angular, Express, MySql | [Link](https://github.com/serflix)                          |
+| Inventory card | A web application for inventory management. | Angular, Express, MySql | [Link](https://github.com/dapperdante/inventory-card-front) |
+| Web api        | A template for creating APIs.               | Express, MySql          | [Link](https://github.com/dapperdante/web-api-ts)           |
+
+### Statistics
+
+![DapperDante's GitHub stats](https://github-readme-stats.vercel.app/api?username=dapperdante&show_icons=true&locale=en)
